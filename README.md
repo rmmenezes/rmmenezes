@@ -9,7 +9,7 @@ Computer science student. :man_technologist:
 
 - 🔭 I’m currently working on [Monitoring Architecture](https://github.com/rmmenezes/prototipo-arq-mononitoramento)
 
-- 👯 I’m looking to collaborate on [DumpPass_RmBa](https://github.com/rmmenezes/DumpPass_RmBa)
+- 🚧 I’m looking to collaborate on [DumpPass_RmBa](https://github.com/rmmenezes/DumpPass_RmBa)
 
 - 💬 Ask me about **ElasticStack, Cybersecurity, Linux...**
 
