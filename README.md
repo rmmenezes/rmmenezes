@@ -23,5 +23,10 @@ Computer science student. :man_technologist:
 
 -----
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rmmenezes&show_icons=true" alt="rmmenezes"/></p>
