@@ -5,7 +5,6 @@ Computer science student. :man_technologist:
 ## About me :scroll:
 <img align="right" width="350" src="https://media.giphy.com/media/RHEqKwRZDwFKE/giphy.gif">
 
-:heart: Cybersecurity | :black_heart: Programming | :blue_heart: Games
 
 - 🔭 I’m currently working on [Monitoring Architecture](https://github.com/rmmenezes/prototipo-arq-mononitoramento)
 
